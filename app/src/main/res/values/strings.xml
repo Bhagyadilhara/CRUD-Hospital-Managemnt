@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Drugs</string>
+    <string name="key">Keyword</string>
+    <string name="list">View Drug List</string>
+    <string name="list2">Insert New Drugs</string>
+
+
+</resources>
